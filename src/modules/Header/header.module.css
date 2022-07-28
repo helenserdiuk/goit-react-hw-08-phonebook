@@ -1,0 +1,12 @@
+.header {
+  padding: 15px 0;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: lavender;
+  list-style: none;
+  display: flex;
+}

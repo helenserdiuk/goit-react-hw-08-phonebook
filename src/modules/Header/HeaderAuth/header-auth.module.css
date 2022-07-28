@@ -1,0 +1,14 @@
+.link {
+  display: inline-block;
+  text-decoration: none;
+  color: blue;
+  padding: 10px 15px;
+  border: 1px solid blue;
+  border-radius: 10px;
+}
+
+.linkActive {
+  composes: link;
+  color: #fff;
+  background-color: blue;
+}
